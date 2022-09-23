@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AspNetAPIMovieController'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98CF4F3728DD4A1181807064DD7E75E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33CE47DCE91545758163E5C87948FF86 }}
           package: .
