@@ -9,7 +9,7 @@ namespace AspNetAPI.Controllers
         [HttpGet]
         public string Get()
         {
-            //throw new Exception("OOPS!");
+            //throw new Exception("PAH!!");
             return "Hello from the Movie API";
         }
 
